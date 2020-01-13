@@ -1,0 +1,29 @@
+@media screen (min-width: 800px) {
+	.intro-text {
+		width: 700px;
+	}
+}
+
+@media screen (min-width: 1200px) {
+	.intro-text {
+		width: 900px;
+	}
+}
+
+.intro{
+	background-image: url("../images/1.png");
+	height: 100vh;
+	background-size: cover;
+	display: flex;
+}
+
+.intro-text {
+	align-self: center;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.intro-text p {
+	font-size: 30px;
+}
+

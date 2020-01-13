@@ -1,0 +1,15 @@
+.about-me{
+	height: 100vh;
+	display: flex;
+}
+
+.about-text {
+	align-self: center;
+	margin-right: auto;
+	margin-left: auto;
+	width: 900px;
+}
+
+.about-text p {
+	font-size: 18px;
+}

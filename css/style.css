@@ -1,0 +1,68 @@
+@import url("intro.css");
+@import url("scroll.css");
+@import url("about-me.css");
+
+
+body {
+	font-family: "Open-Sans";
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: "Anton";
+	letter-spacing: 0.3em;
+	font-size: 80px;
+	line-height: 1.5em;
+}
+
+.sc {
+	background-size: cover;
+	background-repeat: no-repeat;
+    height: 280px;
+    box-shadow: 1px 1px 2px rgba(200, 200, 200, 0.8);
+}
+
+.p-community {
+	background-image: url("../images/PokeBnT - Community.png");
+
+}
+
+.p-landing {
+	background-image: url("../images/PokeBnT - Landing.png");
+}
+
+.p-pokedex {
+	background-image: url("../images/PokeBnT - Pokedex.png");
+}
+
+.p-pokemon-details {
+	background-image: url("../images/PokeBnT - Pokemon Details.png");
+}
+
+.p-team {
+	background-image: url("../images/PokeBnT - Team.png");
+}
+
+.d-all {
+	background-image: url("../images/DCME - All Surveys.png");
+}
+
+.d-answers {
+	background-image: url("../images/DCME - Answer Screen.png");
+}
+
+.d-answer {
+	background-image: url("../images/DCME - Individual Answers.png");
+}
+
+.d-participants {
+	background-image: url("../images/DCME - Participants.png");
+}
+
+.d-questions {
+	background-image: url("../images/DCME - Question Graph.png");
+}
+
+.d-share {
+	background-image: url("../images/DCME - Share Link.png");
+}
+

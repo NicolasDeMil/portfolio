@@ -1,0 +1,48 @@
+/*#section01 a {
+  padding-top: 60px;
+}
+
+#section01 a span {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  width: 24px;
+  height: 24px;
+  margin-left: -12px;
+  border-left: 1px solid #fff;
+  border-bottom: 1px solid #fff;
+  -webkit-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+  box-sizing: border-box;
+}*/
+
+.demo a {
+  position: absolute;
+  bottom: 0;
+  color: black;
+  text-decoration: none;
+  opacity: 0.4;
+  transition: opacity .3s;
+  padding: 10px;
+  font-size: 40px;
+}
+
+.demo a:hover {
+  opacity: 1;
+}
+
+.demo2 a {
+  position: absolute;
+  bottom: 0;
+  color: black;
+  text-decoration: none;
+  opacity: 0.4;
+  transition: opacity .3s;
+  padding: 10px;
+  font-size: 40px;
+}
+
+.demo2 a:hover {
+  opacity: 1;
+}
+
