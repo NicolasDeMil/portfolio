@@ -1,17 +1,21 @@
-.about-me{
+.interests{
 	height: 100vh;
 	display: flex;
 	background-color: white;
 	position: relative;
 }
 
-.about-text {
+.interests-text {
 	align-self: center;
 	margin-right: auto;
 	margin-left: auto;
 	width: 900px;
 }
 
-.about-text p {
-	font-size: 18px;
+.interests-text p {
+	font-size: 14px;
+}
+
+.int-sect {
+	min-height: 280px;
 }
