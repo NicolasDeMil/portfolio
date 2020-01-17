@@ -94,3 +94,28 @@
   from {opacity: .8}
   to {opacity: 1}
 }
+
+
+.d-all {
+  background-image: url("../images/DCME - All Surveys.png");
+}
+
+.d-answers {
+  background-image: url("../images/DCME - Answer Screen.png");
+}
+
+.d-answer {
+  background-image: url("../images/DCME - Individual Answers.png");
+}
+
+.d-participants {
+  background-image: url("../images/DCME - Participants.png");
+}
+
+.d-questions {
+  background-image: url("../images/DCME - Question Graph.png");
+}
+
+.d-share {
+  background-image: url("../images/DCME - Share Link.png");
+}

@@ -5,6 +5,7 @@
 @import url("projects.css");
 @import url("pokebnt.css");
 @import url("dcme.css");
+@import url("stranded.css");
 
 
 body {
@@ -25,29 +26,5 @@ a {
 a:hover{
 	text-decoration: none;
 	color: black;
-}
-
-.d-all {
-	background-image: url("../images/DCME - All Surveys.png");
-}
-
-.d-answers {
-	background-image: url("../images/DCME - Answer Screen.png");
-}
-
-.d-answer {
-	background-image: url("../images/DCME - Individual Answers.png");
-}
-
-.d-participants {
-	background-image: url("../images/DCME - Participants.png");
-}
-
-.d-questions {
-	background-image: url("../images/DCME - Question Graph.png");
-}
-
-.d-share {
-	background-image: url("../images/DCME - Share Link.png");
 }
 
