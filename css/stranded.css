@@ -1,0 +1,47 @@
+/*.stranded{
+	height: 100vh;
+	display: flex;
+	background-color: white;
+	position: relative;
+	flex-direction: column;
+	justify-content: space-around;
+}*/
+
+.stranded-text {
+	align-self: center;
+	margin-right: auto;
+	margin-left: auto;
+	width: 1100px;
+}
+
+.sc-s {
+	height:300px;
+	background-position: center;
+	background-size: contain;
+	background-repeat: no-repeat;
+	border: black solid 5px;
+}
+
+.s-home {
+  background-image: url("../images/Stranded - Home.png");
+}
+
+.s-rules {
+  background-image: url("../images/Stranded - Rules.png");
+}
+
+.s-forest {
+  background-image: url("../images/Stranded - The Forest.png");
+}
+
+.s-river {
+  background-image: url("../images/Stranded - The River.png");
+}
+
+.s-died {
+  background-image: url("../images/Stranded - You Died.png");
+}
+
+.s-one {
+  background-image: url("../images/Stranded - One Death.png");
+}

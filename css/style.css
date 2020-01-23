@@ -1,0 +1,32 @@
+@import url("intro.css");
+@import url("scroll.css");
+@import url("about-me.css");
+@import url("interests.css");
+@import url("projects.css");
+@import url("pokebnt.css");
+@import url("dcme.css");
+@import url("stranded.css");
+@import url("banfoot.css");
+@import url("layout.css");
+
+
+body {
+	font-family: "Open-Sans";
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: "Anton";
+	letter-spacing: 0.3em;
+	font-size: 80px;
+	line-height: 1.2em;
+}
+
+a {
+	color: black;
+}
+
+a:hover{
+	text-decoration: none;
+	color: black;
+}
+
