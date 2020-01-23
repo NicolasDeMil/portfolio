@@ -1,4 +1,4 @@
-.projects{
+/*.projects{
 	height: 100vh;
 	background-color: white;
 	display: flex;
@@ -11,4 +11,8 @@
 	margin-left: auto;
 }
 
-
+*/
+.projects {
+	background-color: #4660d6;
+	color: white;
+}

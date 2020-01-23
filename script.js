@@ -8,20 +8,11 @@
 //SCROLL
 $(document).ready(function () {
   $('.scrolld').click(function(){
-  $("html, body").animate({ scrollTop: window.pageYOffset + $(window).height()}, 800);
-  return "hello";
+  $("html, body").animate({ scrollTop: window.pageYOffset + $(window).height()}, 1000);
   });
 
-  // $('.up-arrow').click(function(){
-  // $("html, body").animate({ scrollTop: window.scrollTop(0), 300);
-  // });
-  $('.down-arrow-body').click(function(){
-  $("html, body").animate({ scrollTop: window.pageYOffset + $(window).height()}, 800);
-  return "hello";
-  });
-
-  $('.up-arrow-body').click(function(){
-  $("html, body").animate({ scrollTop: window.pageYOffset - $(window).height()*4}, 800);
+  $('.scrollu').click(function(){
+  $("html, body").animate({ scrollTop: window.pageYOffset - $(window).height()*6}, 800);
   return "hello";
   });
 });

@@ -23,8 +23,8 @@
   text-decoration: none;
   opacity: 0.4;
   transition: opacity .3s;
-  padding: 10px;
-  font-size: 40px;
+/*  padding: 10px;
+*/  font-size: 40px;
   left: 48%;
 }
 
@@ -32,19 +32,4 @@
   opacity: 1;
 }
 
-.demo2 a {
-  position: absolute;
-  bottom: 0;
-  left: 48%;
-  color: black;
-  text-decoration: none;
-  opacity: 0.4;
-  transition: opacity .3s;
-  padding: 10px;
-  font-size: 40px;
-}
-
-.demo2 a:hover {
-  opacity: 1;
-}
 

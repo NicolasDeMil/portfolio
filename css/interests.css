@@ -1,4 +1,4 @@
-.interests{
+/*.interests{
 	height: 100vh;
 	display: flex;
 	background-color: white;
@@ -10,7 +10,7 @@
 	margin-right: auto;
 	margin-left: auto;
 	width: 900px;
-}
+}*/
 
 .interests-text p {
 	font-size: 14px;
@@ -18,4 +18,9 @@
 
 .int-sect {
 	min-height: 200px;
+}
+
+.interests {
+	background-color: #C40C60;
+	color: white;
 }
