@@ -1,11 +1,7 @@
-/*.stranded{
-	height: 100vh;
-	display: flex;
-	background-color: white;
-	position: relative;
-	flex-direction: column;
-	justify-content: space-around;
-}*/
+.stranded{
+	background-color: #C40C60;
+	color: white;
+}
 
 .stranded-text {
 	align-self: center;

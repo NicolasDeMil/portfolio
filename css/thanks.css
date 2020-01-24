@@ -1,0 +1,20 @@
+.thanks{
+	background-image: url("../images/1.png");
+	background-size: cover;
+}
+
+.thanks-text {
+	align-self: center;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.thanks-text p {
+	font-size: 30px;
+}
+
+.thanks-text .icon {
+	font-size: 60px;
+	color: black;
+	padding: 0 15px;
+}

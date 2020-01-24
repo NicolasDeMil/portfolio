@@ -12,7 +12,7 @@ $(document).ready(function () {
   });
 
   $('.scrollu').click(function(){
-  $("html, body").animate({ scrollTop: window.pageYOffset - $(window).height()*6}, 800);
+  $("html, body").animate({ scrollTop: window.pageYOffset - $(window).height()*7}, 800);
   return "hello";
   });
 });
