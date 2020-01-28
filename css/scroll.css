@@ -19,7 +19,8 @@
 .demo a {
   position: absolute;
   bottom: 0;
-  color: black;
+  height: 55px;
+  color: white;
   text-decoration: none;
   opacity: 0.4;
   transition: opacity .3s;

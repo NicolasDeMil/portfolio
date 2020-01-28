@@ -1,24 +1,6 @@
-/*.about-me{
-	height: 100vh;
-	display: flex;
-	background-color: white;
-	position: relative;
-}
-
-.about-text {
-	align-self: center;
-	margin-right: auto;
-	margin-left: auto;
-	width: 800px;
-}
-
-.about-text p {
-	font-size: 16px;
-}
-*/
-
 .about-me{
-	background-image: linear-gradient(180deg,rgba(0,0,0,.2),rgba(0,0,0,.3)), url("../images/2.png");
+	/*background-image: linear-gradient(180deg,rgba(0,0,0,.2),rgba(0,0,0,.3)), url("../images/2.png");*/
+	background-color: #4660d6;
 	background-position: bottom;
 	color: white;
 }

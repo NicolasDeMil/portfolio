@@ -8,6 +8,7 @@
 @import url("stranded.css");
 @import url("banfoot.css");
 @import url("layout.css");
+@import url("thanks.css");
 
 
 body {
@@ -22,11 +23,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
-	color: black;
+	color: white;
 }
 
 a:hover{
 	text-decoration: none;
-	color: black;
+	color: white;
 }
 
