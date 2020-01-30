@@ -2,7 +2,6 @@
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
-    height: 200px;
     box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.4);
 }
 
@@ -30,4 +29,28 @@
 .pokebnt {
 	background-color: #C40C60;
 	color: white;
+}
+
+@media (min-width: 300px) {
+	.sc {
+	    height: 100px;
+	}
+}
+
+@media (min-width: 600px) {
+	.sc {
+	    height: 120px;
+	}
+}
+
+@media (min-width: 800px) {
+	.sc {
+	    height: 160px;
+	}
+}
+
+@media (min-width: 1200px) {
+	.sc {
+	    height: 200px;
+	}
 }

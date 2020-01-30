@@ -23,6 +23,30 @@
   height: 380px;
 }
 
+@media (min-width: 300px) {
+  .sc-d {
+      height: 260px;
+  }
+}
+
+@media (min-width: 600px) {
+  .sc-d {
+      height: 300px;
+  }
+}
+
+@media (min-width: 800px) {
+  .sc-d {
+      height: 340px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .sc-d {
+      height: 380px;
+  }
+}
+
 /* Next & previous buttons */
 .prev, .next {
   color: black !important;
