@@ -19,7 +19,7 @@
 	width: auto;
 }
 
-@media (min-width: 300px) {
+@media screen and (min-width: 300px) {
 	.sc-s {
 	    height: 160px;
 	    border: black solid 1px;
