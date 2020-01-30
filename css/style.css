@@ -13,12 +13,12 @@
 
 body {
 	font-family: "Open-Sans";
+	/*overflow: hidden;*/
 }
 
 h1, h2, h3, h4, h5, h6 {
 	font-family: "Anton";
 	letter-spacing: 0.3em;
-	font-size: 80px;
 	line-height: 1.2em;
 }
 
@@ -31,3 +31,20 @@ a:hover{
 	color: white;
 }
 
+@media (max-width: 700px) {
+	h1, h2, h3, h4, h5, h6 {
+	font-size: 40px;
+	}
+}
+
+@media (min-width: 800px) {
+	h1, h2, h3, h4, h5, h6 {
+	font-size: 60px;
+	}
+}
+
+@media (min-width: 1200px) {
+	h1, h2, h3, h4, h5, h6 {
+	font-size: 80px;
+	}
+}
