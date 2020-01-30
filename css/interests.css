@@ -20,3 +20,27 @@
 	background-color: #C40C60;
 	color: white;
 }
+
+@media (min-width: 300px) {
+	.int-sect {
+		min-height: 120px;
+	}
+}
+
+@media (min-width: 600px) {
+	.int-sect {
+		min-height: 160px;
+	}
+}
+
+@media (min-width: 800px) {
+	.int-sect {
+		min-height: 180px;
+	}
+}
+
+@media (min-width: 1200px) {
+	.int-sect {
+		min-height: 200px;
+	}
+}
